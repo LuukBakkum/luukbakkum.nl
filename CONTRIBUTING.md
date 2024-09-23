@@ -1,6 +1,6 @@
-# Contributing to semplaatsman.nl
+# Contributing to luukbakkum.nl
 
-First off, thank you for considering contributing to semplaatsman.nl! It's people like you that make
+First off, thank you for considering contributing to luukbakkum.nl! It's people like you that make
 this project greater and greater. We welcome contributions from everyone, regardless of their
 experience level.
 
@@ -20,7 +20,7 @@ experience level.
 
 This project and everyone participating in it is governed by our
 [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-Please report unacceptable behavior to [dev@semplaatsman.nl](mailto:dev@semplaatsman.nl).
+Please report unacceptable behavior to [dev@luukbakkum.nl](mailto:dev@luukbakkum.nl).
 
 ## How Can I Contribute?
 
@@ -94,7 +94,7 @@ would love to hear your opinions and thoughts on this repository!
 - **Testing**: Implement tests. Feel free to choose your own testing framework, but carefully
   consider which testing framework would suit this project. See also [Vitest](https://vitest.dev/)
 
-Please also check our [Issues](https://github.com/SemPlaatsman/semplaatsman.nl/issues) page for
+Please also check our [Issues](https://github.com/LuukBakkum/luukbakkum.nl/issues) page for
 further contributions.
 
 ## Reporting Bugs
@@ -132,4 +132,4 @@ npm run lint:fix
 - Use [Markdown](https://daringfireball.net/projects/markdown/) for documentation.
 - Reference function names, variables, and filenames using backticks: `someFunction()`.
 
-Thank you for contributing to semplaatsman.nl!
+Thank you for contributing to luukbakkum.nl!

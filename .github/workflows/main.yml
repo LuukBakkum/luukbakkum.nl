@@ -96,7 +96,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          cname: semplaatsman.nl
+          cname: luukbakkum.nl
           # enable_jekyll: false # Already set to false by default
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
