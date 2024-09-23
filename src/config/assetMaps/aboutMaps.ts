@@ -5,7 +5,7 @@ import IconWebDevelopment from '../../assets/interests/web-development.svg';
 import IconAI from '../../assets/interests/artificial-intelligence.svg';
 import IconGaming from '../../assets/interests/gaming.svg';
 import AvatarLardyVanDerPal from '../../assets/avatars/lardy-van-der-pal.webp';
-import AvatarTayamElJebari from '../../assets/avatars/tayam-el-jebari.webp';
+import AvatarSemPlaatsman from '../../assets/avatars/sem-plaatsman.webp';
 
 export const interestsImageMap = {
   backendDevelopment: IconBackendDevelopment,
@@ -16,5 +16,5 @@ export const interestsImageMap = {
 
 export const testimonialImageMap = {
   lardyVanDerPal: AvatarLardyVanDerPal,
-  tayamElJebari: AvatarTayamElJebari,
+  semPlaatsman: AvatarSemPlaatsman,
 };

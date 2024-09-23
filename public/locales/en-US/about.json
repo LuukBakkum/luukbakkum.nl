@@ -47,15 +47,15 @@
       ],
         "avatarAlt": "Lardy van der Pal avatar"
       },
-      "tayamElJebari": {
-        "name": "Tayam El Jebari",
-        "position": "Fellow student | DevOps Engineer bij Albert Heijn",
-        "dateISO": "2023-09-04",
+      "semPlaatsman": {
+        "name": "Sem Plaatsman",
+        "position": "Fellow student | Employee Automation @ S.P. Abonneeservice B.V.",
+        "dateISO": "2024-09-23",
         "description": [
-          "I have enjoyed working with Luuk. Luuk has a good ability to take initiative in various tasks and has a serious approach with his responsibilities.",
-          "His communication skills are excellent, which always makes cooperation within the team run smoothly. His dedication and diligence always leads to a clear structure in his code. Luuk is also an upbeat and fun colleague to work with. His positive attitude contributes to a pleasant working atmosphere."
+          "After collaborating on multiple group projects, I can wholeheartedly recommend Luuk.",
+          "As a specialized frontend developer, he creates attractive, user-friendly interfaces.", "Luuk combines his technical skills with a strong team spirit and effective communication.", "For roles that require a capable frontend developer and a good team player, Luuk is an excellent choice."
         ],
-        "avatarAlt": "---- avatar"
+        "avatarAlt": "Sem Plaatsman avatar"
       }
     }
   }
