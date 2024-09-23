@@ -1,15 +1,16 @@
 {
   "title": "{{config.owner.fullName}} / Portfolio",
-  "siteDescription": "Portfolio van {{config.owner.fullName}}, student en backend developer gevestigd in Haarlem.",
+  "siteDescription": "Portfolio van {{config.owner.fullName}}, student en backend developer gevestigd in Zaandam.",
   "keywords": [
     "{{config.owner.fullName}}",
     "Portfolio",
     "Developer",
-    "Haarlem",
+    "Zaandam",
     "Nederland",
+    "frontend",
     "Backend"
   ],
   "imageAlt": "{{config.owner.fullName}} Portfolio favicon afbeelding",
-  "personDescription": "Ik ben een student en backend developer gevestigd in Haarlem.",
+  "personDescription": "Ik ben een student en backend developer gevestigd in Zaandam.",
   "jobTitle": "Student en Backend Developer"
 }

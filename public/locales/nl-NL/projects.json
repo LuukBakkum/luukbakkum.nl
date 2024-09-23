@@ -27,9 +27,9 @@
     }
   },
   "items": {
-    "semplaatsman.nl-portfolio": {
-      "bannerAlt": "Afbeelding van semplaatsman.nl",
-      "title": "semplaatsman.nl (Portfolio)",
+    "luukbakkum.nl-portfolio": {
+      "bannerAlt": "Afbeelding van luukbakkum.nl",
+      "title": "luukbakkum.nl (Portfolio)",
       "text": "Mijn persoonlijke portfolio website, gebouwd met React en TypeScript."
     }
   }

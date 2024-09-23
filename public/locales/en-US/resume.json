@@ -8,20 +8,28 @@
     "title": "Education",
     "items": [
       {
-        "title": "Inholland University of Applied Sciences",
+        "title": "Bachelor’s in Computer Science, Inholland University of Applied Sciences (HBO)",
         "period": "2021 — Present",
         "description": [
-          "In year 2, I helped year 1 students with programming in C# (credit point).",
+          "In year 3, I helped year 1 students with programming in C# (credit point).",
           "Successfully completed various multidisciplinary projects with a variety of technologies.",
-          "Obtained propaedeutic diploma in the first year."
+          "Obtained propaedeutic diploma in the second year."
         ]
       },
       {
-        "title": "OSG De Hogeberg (HAVO)",
-        "period": "2015 — 2021",
+        "title": "Technical Leadership, HMC College (MBO 4)",
+        "period": "2019 — 2020",
         "description": [
-          "Completed a year-long final research project on AI.",
-          "Became interested in programming during a Python project in the 4th year."
+          "Learned how to interact with teams and to guide them to complete their tasks.",
+          "Gained more experience during the internship."
+        ]
+      },
+      {
+        "title": "All-round Furniture Maker and (Ship) Interior Builder, HMC College (MBO 3)",
+        "period": "2017 — 2020",
+        "description": [
+          "Became experienced with crafting woorden furniture and using the machines.",
+          "Learned how to work in large teams and the furniture construction branche."
         ]
       }
     ]
@@ -30,27 +38,36 @@
     "title": "Experience",
     "items": [
       {
-        "title": "S.P. Abonneeservice",
-        "period": "2024 — Present",
+        "title": "Logistics employee at Albert Heijn",
+        "period": "2017 — Present",
         "description": [
-          "Developed an SSO system with performance, security, and unit testing.",
-          "Worked on an AI model that attempts to predict when a subscriber will cancel. This AI model is integrated with the existing retention modules."
+          "Always helpful with customer inquiries and make every effort to assist as best as possible.",
+          "Always work with a focus on quality.",
+          "Able to perform well under pressure, both independently and as part of a team."
         ]
       },
       {
-        "title": "S.P. Abonneeservice (Internship)",
+        "title": "The Brink Agency (Internship)",
         "period": "2023 — 2024",
         "description": [
-          "Developed a JWT-authenticated PWA for S.P.'s customers for statistical information.",
-          "Collaborated within a multidisciplinary context. Analyzed requirements and performed technical translations for non-technical stakeholders.",
-          "Gained experience with React, ASP.NET, JWT, TypeScript, SCSS, MySQL, and other technologies."
+          "Build and gained aexperience in building WordPress websites and working with tools like Elementor.",
+          "Created custom newsletters in services like Mailchimp.",
+          "Developed multiple custom WordPress plugins for a client."
         ]
       },
       {
-        "title": "Zegel Retailing B.V.",
-        "period": "2019 — 2023",
+        "title": "Supervision function at Karwei Zaandam (Internship)",
+        "period": "2020 — 2020",
         "description": [
-          "All-round retail employee focusing on customer-oriented service and operational support."
+          "Worked as supervisor to a team of 12 employees in the logistical department.",
+          "Collaborated within a multidisciplinary context. Worked well in a team with supervisors and colleagues."
+        ]
+      },
+      {
+        "title": "MultiplX (Internship)",
+        "period": "2018 — 2019",
+        "description": [
+          "Worked together as a contractor for furnishings and have worked at multiple locations."
         ]
       }
     ]
@@ -60,11 +77,11 @@
     "items": [
       {
         "skill": "Web Design",
-        "percentage": 80
+        "percentage": 75
       },
       {
         "skill": "Graphic Design",
-        "percentage": 70
+        "percentage": 80
       },
       {
         "skill": "Branding",
@@ -72,7 +89,7 @@
       },
       {
         "skill": "WordPress",
-        "percentage": 50
+        "percentage": 85
       }
     ]
   }

@@ -8,13 +8,13 @@
     "contacts": {
       "github": {
         "title": "GitHub",
-        "handle": "@SemPlaatsman",
+        "handle": "@LuukBakkum",
         "link": "{{config.externalLinks.github}}",
         "ariaLabel": "Profiel van {{config.owner.fullName}} op GitHub"
       },
       "linkedin": {
         "title": "LinkedIn",
-        "handle": "@sem-plaatsman",
+        "handle": "@luuk-bakkum",
         "link": "{{config.externalLinks.linkedin}}",
         "ariaLabel": "Profiel van {{config.owner.fullName}} op LinkedIn"
       },
@@ -26,7 +26,7 @@
       },
       "location": {
         "title": "Locatie",
-        "handle": "Haarlem, Noord-Holland",
+        "handle": "Zaandam, Noord-Holland",
         "link": "{{config.externalLinks.location}}",
         "ariaLabel": "Locatie van {{config.owner.fullName}} op Google Maps"
       }
