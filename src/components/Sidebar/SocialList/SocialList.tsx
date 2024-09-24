@@ -8,7 +8,7 @@ import Social from './Social';
 
 const SocialList: React.FC = () => {
   const { t } = useTranslation('layout');
-  const socials: Record<string, Social> = t('sidebar.socials', { returnObjects: true });
+  const socials: Record<string, Social> = t('sidebar.socials', { returnObjects: true }) as Record<string, Social>;
 
   return (
     <ul className={styles.socialList}>

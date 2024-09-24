@@ -8,7 +8,7 @@ import styles from './Interests.module.scss';
 
 const Interests: React.FC = () => {
   const { t } = useTranslation('about');
-  const interests: Record<string, Interest> = t('whatImDoing.interests', { returnObjects: true });
+  const interests: Record<string, Interest> = t('whatImDoing.interests', { returnObjects: true }) as Record<string, Interest>;
 
   return (
     <section className={styles.interests}>
