@@ -3,7 +3,7 @@
 import { ProjectConfig } from '../../types/project';
 
 // Import project configs here
-import semplaatsmanNlProjectConfig from './SemplaatsmanNlPortfolio/projectConfig';
+import semplaatsmanNlProjectConfig from './LuukbakkumNlPortfolio/projectConfig';
 import whoHasBeenCallingProjectConfig from './WhoHasBeenCalling/projectConfig';
 
 // Add project configs to the array here

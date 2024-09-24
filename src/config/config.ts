@@ -11,21 +11,21 @@
 // - /index.html
 const config = {
   app: {
-    baseUrl: 'https://semplaatsman.nl',
-    githubUrl: 'https://github.com/SemPlaatsman/semplaatsman.nl',
-    domain: 'semplaatsman.nl',
+    baseUrl: 'https://luukbakkum.nl',
+    githubUrl: 'https://github.com/LuukBakkum/luukbakkum.nl',
+    domain: 'luukbakkum.nl',
   },
   owner: {
-    firstName: 'Sem',
-    lastName: 'Plaatsman',
-    fullName: 'Sem Plaatsman',
-    additionalName: 'SemPl',
+    firstName: 'Luuk',
+    lastName: 'Bakkum',
+    fullName: 'Luuk Bakkum',
+    additionalName: 'LuukBk',
     locationUrl:
-      'https://www.openstreetmap.org/export/embed.html?bbox=4.520702362060548%2C52.333241186520006%2C4.747295379638673%2C52.43550196931334&amp;layer=mapnik', // URL from https://www.openstreetmap.org, you can select a location, and export it as a link
+      'https://www.openstreetmap.org/export/embed.html?bbox=4.688415527343751%2C52.403361457458246%2C4.915008544921876%2C52.49730912555673&amp;layer=mapnik', // URL from https://www.openstreetmap.org, you can select a location, and export it as a link
     gender: 'Male', // According to https://schema.org/GenderType
     knowsLanguage: ['English', 'Dutch'], // According to https://schema.org/Language
     nationality: 'Dutch', // According to https://schema.org/Country
-    addressLocality: 'Haarlem', // According to the 'addressLocality' field of https://schema.org/PostalAddress
+    addressLocality: 'Zaandam', // According to the 'addressLocality' field of https://schema.org/PostalAddress
     addressCountry: 'NL', // According to the 'addressCountry' field of https://schema.org/PostalAddress
     knowsAbout: [
       'C#',
@@ -40,10 +40,15 @@ const config = {
       'GitHub',
       'Docker',
       'Python',
+      'WordPress',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Vue'
     ], // According to the 'knowsAbout' field of https://schema.org/Person
   },
   email: {
-    address: 'hello@semplaatsman.nl',
+    address: 'hello@luukbakkum.nl',
     rateLimit: {
       maxRequests: 5,
       timeWindow: 86400000, // 24 hours
@@ -58,14 +63,14 @@ const config = {
     },
   },
   externalLinks: {
-    github: 'https://github.com/SemPlaatsman',
-    linkedin: 'https://www.linkedin.com/in/sem-plaatsman/',
+    github: 'https://github.com/LuukBakkum',
+    linkedin: 'https://www.linkedin.com/in/luuk-bakkum/',
     get email() {
       return `mailto:${config.email.address}`;
     },
-    location: 'https://maps.app.goo.gl/AEWwr2iiCeWyovD28',
-    npm: 'https://www.npmjs.com/~sempl',
-    stackOverflow: 'https://stackoverflow.com/users/18598382/sem',
+    location: 'https://maps.app.goo.gl/MFsQ2wnkrmBY3X7Q8',
+    npm: 'https://www.npmjs.com/~luuk-bakkum',
+    stackOverflow: 'https://stackoverflow.com/users/27327493/luuk-bakkum',
   },
   ui: {
     scroll: {
