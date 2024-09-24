@@ -1,9 +1,9 @@
 import React from 'react';
 
 import projectConfig from './projectConfig';
-import styles from './SemplaatsmanNlPortfolio.module.scss';
+import styles from './LuukbakkumNlPortfolio.module.scss';
 
-const SemplaatsmanNlPortfolio: React.FC = () => {
+const LuukbakkumNlPortfolio: React.FC = () => {
   return (
     <div>
       <p>This is just a temporary project page, full documentation will be written soon!</p>
@@ -24,4 +24,4 @@ const SemplaatsmanNlPortfolio: React.FC = () => {
   );
 };
 
-export default SemplaatsmanNlPortfolio;
+export default LuukbakkumNlPortfolio;

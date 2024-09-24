@@ -1,7 +1,7 @@
 # luukbakkum.nl
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsemplaatsman.nl)](https://luukbakkum.nl)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluukbakkum.nl)](https://luukbakkum.nl)
 ![GitHub Stars](https://img.shields.io/github/stars/LuukBakkum/luukbakkum.nl?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/LuukBakkum/luukbakkum.nl?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LuukBakkum/luukbakkum.nl)

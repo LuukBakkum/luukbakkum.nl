@@ -20,7 +20,7 @@ const Resume: React.FC = () => {
 
   // const skillsItems: SkillItem[] = t('skills.items', { returnObjects: true });
 
-  const pdfUrl = `/resume/Resume_Sem_Plaatsman_${i18n.language}.pdf`;
+  const pdfUrl = `/resume/Resume_Luuk_Bakkum_${i18n.language}.pdf`;
 
   return (
     <PageContent className={styles.resume}>

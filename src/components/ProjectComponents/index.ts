@@ -3,12 +3,12 @@
 import { ProjectConfig } from '../../types/project';
 
 // Import project configs here
-import semplaatsmanNlProjectConfig from './LuukbakkumNlPortfolio/projectConfig';
+import luukbakkumNlProjectConfig from './LuukbakkumNlPortfolio/projectConfig';
 import whoHasBeenCallingProjectConfig from './WhoHasBeenCalling/projectConfig';
 
 // Add project configs to the array here
 const projectConfigs: ProjectConfig[] = [
-  semplaatsmanNlProjectConfig,
+  luukbakkumNlProjectConfig,
   whoHasBeenCallingProjectConfig,
 ];
 
