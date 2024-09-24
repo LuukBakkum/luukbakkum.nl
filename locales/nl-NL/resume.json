@@ -1,0 +1,96 @@
+{
+  "title": "CV",
+  "pdfLink": {
+    "text": "Open als PDF",
+    "ariaLabel": "Open CV PDF in nieuw tabblad"
+  },
+  "education": {
+    "title": "Opleiding",
+    "items": [
+      {
+        "title": "Informatica, Hogeschool Inholland (HBO)",
+        "period": "2021 — Heden",
+        "description": [
+          "In jaar 3 heb ik studenten van jaar 1 geholpen met programmeren in C# (studiepunt).",
+          "Verschillende multidisciplinaire projecten succesvol voltooid met diverse technologieën.",
+          "Propedeuse behaald in het tweede jaar."
+        ]
+      },
+      {
+        "title": "Technisch Leidinggevende, HMC College (MBO 4)",
+        "period": "2019 — 2020",
+        "description": [
+          "Geleerd hoe je met teams kunt samenwerken en deze kunt begeleiden om taken te voltooien.",
+          "Meer ervaring opgedaan tijdens de stage."
+        ]
+      },
+      {
+        "title": "Allround meubelmaker en (scheeps-) interieur bouwer, HMC College (MBO 3)",
+        "period": "2017 — 2020",
+        "description": [
+          "Ervaring opgedaan met het maken van houten meubels en het gebruik van machines.",
+          "Geleerd hoe je in grote teams werkt en de meubelindustrie."
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Ervaring",
+    "items": [
+      {
+        "title": "Logistiek medewerker bij Albert Heijn",
+        "period": "2017 — Heden",
+        "description": [
+          "Altijd behulpzaam bij vragen van de klant en neem altijd de moeite om zo goed mogelijk te helpen.",
+          "Ga altijd kwaliteitsgericht te werk.",
+          "Kan goed presteren onder druk dit zowel zelfstandig als in teamverband."
+        ]
+      },
+      {
+        "title": "The Brink Agency (Stage)",
+        "period": "2023 — 2024",
+        "description": [
+          "Ervaring opgedaan in het bouwen van WordPress-websites en werken met tools zoals Elementor.",
+          "Aangepaste nieuwsbrieven gemaakt in diensten zoals Mailchimp.",
+          "Meerdere aangepaste WordPress-plugins ontwikkeld voor een klant."
+        ]
+      },
+      {
+        "title": "Supervisiefunctie bij Karwei Zaandam (Stage)",
+        "period": "2020 — 2020",
+        "description": [
+          "Als supervisor gewerkt voor een team van 12 medewerkers in de logistieke afdeling.",
+          "Samenwerking binnen een multidisciplinair team. Werkte goed samen met leidinggevenden en collega's."
+        ]
+      },
+      {
+        "title": "MultiplX (Stage)",
+        "period": "2018 — 2019",
+        "description": [
+          "Samen gewerkt als aannemer voor inboedel en op meerdere locaties gewerkt."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Vaardigheden",
+    "items": [
+      {
+        "skill": "Webdesign",
+        "percentage": 75
+      },
+      {
+        "skill": "Grafisch ontwerp",
+        "percentage": 80
+      },
+      {
+        "skill": "Branding",
+        "percentage": 90
+      },
+      {
+        "skill": "WordPress",
+        "percentage": 85
+      }
+    ]
+  }
+}

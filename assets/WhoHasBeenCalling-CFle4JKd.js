@@ -1,0 +1,1 @@
+import{j as t}from"./about-geo1ZKXi.js";import"./vendor-_1rGvRRE.js";const r=()=>t.jsx("div",{children:t.jsx("p",{children:"This is just a temporary project page, full documentation will be written soon!"})});export{r as default};
