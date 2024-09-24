@@ -19,7 +19,7 @@ const projectConfig: ProjectConfig = {
   codeUrl: 'https://github.com/LuukBakkum/luukbakkum.nl',
   liveUrl: 'https://luukbakkum.nl',
   imagePath: portfolioImage,
-  component: lazy(() => import('./SemplaatsmanNlPortfolio')),
+  component: lazy(() => import('./LuukbakkumNlPortfolio')),
 };
 
 export default projectConfig;
