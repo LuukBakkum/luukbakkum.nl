@@ -9,7 +9,7 @@ import Contact from './Contact';
 
 const ContactsList: React.FC = () => {
   const { t } = useTranslation('layout');
-  const contacts: Record<string, Contact> = t('sidebar.contacts', { returnObjects: true });
+  const contacts: Record<string, Contact> = t('sidebar.contacts', { returnObjects: true }) as Record<string, Contact>;
 
   return (
     <ul className={styles.contactsList}>

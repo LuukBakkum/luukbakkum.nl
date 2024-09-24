@@ -15,8 +15,8 @@ import TimelineItem from './Timeline/TimelineItem';
 const Resume: React.FC = () => {
   const { t } = useTranslation('resume');
 
-  const educationItems: TimelineItem[] = t('education.items', { returnObjects: true });
-  const experienceItems: TimelineItem[] = t('experience.items', { returnObjects: true });
+  const educationItems: TimelineItem[] = t('education.items', { returnObjects: true }) as TimelineItem[];
+  const experienceItems: TimelineItem[] = t('experience.items', { returnObjects: true }) as TimelineItem[];
 
   // const skillsItems: SkillItem[] = t('skills.items', { returnObjects: true });
 
