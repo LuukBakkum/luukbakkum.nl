@@ -3,9 +3,13 @@
 import { ProjectConfig } from '../../types/project';
 
 // Import project configs here
-import projectConfig from './SemplaatsmanNlPortfolio/projectConfig';
+import luukbakkumNlProjectConfig from './LuukbakkumNlPortfolio/projectConfig';
+import whoHasBeenCallingProjectConfig from './WhoHasBeenCalling/projectConfig';
 
 // Add project configs to the array here
-const projectConfigs: ProjectConfig[] = [projectConfig];
+const projectConfigs: ProjectConfig[] = [
+  luukbakkumNlProjectConfig,
+  whoHasBeenCallingProjectConfig,
+];
 
 export default projectConfigs;

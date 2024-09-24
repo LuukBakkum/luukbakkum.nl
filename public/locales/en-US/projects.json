@@ -1,8 +1,14 @@
 {
   "title": "Projects",
   "additionalFiltersTitle": "Additional Filters",
+  "variables": {
+    "createdDate": {
+      "name": "Creation Date"
+    }
+  },
   "filters": {
     "projectType": {
+      "name": "Project Type",
       "prompt": "Select Type",
       "options": {
         "all": "All",
@@ -27,10 +33,25 @@
     }
   },
   "items": {
-    "semplaatsman.nl-portfolio": {
-      "bannerAlt": "Image of semplaatsman.nl",
-      "title": "semplaatsman.nl (Portfolio)",
+    "luukbakkum.nl-portfolio": {
+      "bannerAlt": "Image of luukbakkum.nl",
+      "title": "luukbakkum.nl (Portfolio)",
       "text": "My personal portfolio website, built with React and TypeScript."
+    },
+    "who-has-been-calling": {
+      "bannerAlt": "Image of TNO's logo",
+      "title": "Who Has Been Calling",
+      "text": "AI-driven full-stack system for automated audio conversation analysis."
+    }
+  },
+  "projectDetails": {
+    "links": {
+      "live": {
+        "ariaLabel": "Visit live version of {{projectName}}"
+      },
+      "code": {
+        "ariaLabel": "View source code for {{projectName}}"
+      }
     }
   }
 }

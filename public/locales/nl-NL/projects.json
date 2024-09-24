@@ -1,8 +1,14 @@
 {
   "title": "Projecten",
   "additionalFiltersTitle": "Extra Filters",
+  "variables": {
+    "createdDate": {
+      "name": "Aanmaakdatum"
+    }
+  },
   "filters": {
     "projectType": {
+      "name": "Project Type",
       "prompt": "Selecteer Type",
       "options": {
         "all": "Alle",
@@ -27,10 +33,25 @@
     }
   },
   "items": {
-    "semplaatsman.nl-portfolio": {
-      "bannerAlt": "Afbeelding van semplaatsman.nl",
-      "title": "semplaatsman.nl (Portfolio)",
+    "luukbakkum.nl-portfolio": {
+      "bannerAlt": "Afbeelding van luukbakkum.nl",
+      "title": "luukbakkum.nl (Portfolio)",
       "text": "Mijn persoonlijke portfolio website, gebouwd met React en TypeScript."
+    },
+    "who-has-been-calling": {
+      "bannerAlt": "Afbeelding van TNO's logo",
+      "title": "Who Has Been Calling",
+      "text": "AI-gedreven full-stack systeem voor geautomatiseerde audioconversieanalyse."
+    }
+  },
+  "projectDetails": {
+    "links": {
+      "live": {
+        "ariaLabel": "Bezoek live versie van {{projectName}}"
+      },
+      "code": {
+        "ariaLabel": "Bekijk broncode van {{projectName}}"
+      }
     }
   }
 }

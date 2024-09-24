@@ -3,18 +3,18 @@
 import IconBackendDevelopment from '../../assets/interests/backend-development.svg';
 import IconWebDevelopment from '../../assets/interests/web-development.svg';
 import IconAI from '../../assets/interests/artificial-intelligence.svg';
-import IconCooking from '../../assets/interests/cooking.svg';
-import AvatarMarcDierikx from '../../assets/avatars/marc-dierikx.webp';
-import AvatarTayamElJebari from '../../assets/avatars/tayam-el-jebari.webp';
+import IconGaming from '../../assets/interests/gaming.svg';
+import AvatarLardyVanDerPal from '../../assets/avatars/lardy-van-der-pal.webp';
+import AvatarSemPlaatsman from '../../assets/avatars/sem-plaatsman.webp';
 
 export const interestsImageMap = {
   backendDevelopment: IconBackendDevelopment,
   webDevelopment: IconWebDevelopment,
   artificialIntelligence: IconAI,
-  cooking: IconCooking,
+  gaming: IconGaming,
 };
 
 export const testimonialImageMap = {
-  marcDierikx: AvatarMarcDierikx,
-  tayamElJebari: AvatarTayamElJebari,
+  lardyVanDerPal: AvatarLardyVanDerPal,
+  semPlaatsman: AvatarSemPlaatsman,
 };

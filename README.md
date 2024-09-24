@@ -1,24 +1,21 @@
-# semplaatsman.nl
+# luukbakkum.nl
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsemplaatsman.nl)](https://semplaatsman.nl)
-![GitHub Stars](https://img.shields.io/github/stars/SemPlaatsman/semplaatsman.nl?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/SemPlaatsman/semplaatsman.nl?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/SemPlaatsman/semplaatsman.nl)
-![GitHub contributors](https://img.shields.io/github/contributors/SemPlaatsman/semplaatsman.nl)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluukbakkum.nl)](https://luukbakkum.nl)
+![GitHub Stars](https://img.shields.io/github/stars/LuukBakkum/luukbakkum.nl?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/LuukBakkum/luukbakkum.nl?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/LuukBakkum/luukbakkum.nl)
+![GitHub contributors](https://img.shields.io/github/contributors/LuukBakkum/luukbakkum.nl)
 
-Welcome to the repository for semplaatsman.nl! This project showcases a modern, fully responsive
+Welcome to the repository for luukbakkum.nl! This project showcases a modern, fully responsive
 personal portfolio website built with React. It has built-in support for emails, multilinguality,
 multiple themes, and free hosting.
 
-![semplaatsman.nl Mockup](./docs/assets/about-mockup.webp)
+![luukbakkum.nl Mockup](./docs/assets/about-mockup.webp)
 
 <p align="center">
-   <img src="./docs/assets/lighthouse-results.png" alt="semplaatsman.nl Lighthouse results" style="width: 75%" />
+   <img src="./docs/assets/lighthouse-results.png" alt="luukbakkum.nl Lighthouse results" style="width: 75%" />
 </p>
-
-> 💡 The documentation for this project is still being worked on, so if you see any mistakes or
-> missing pieces of information, be sure to let me know!
 
 > 💡 This project draws significant inspiration from
 > [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio).
@@ -48,32 +45,32 @@ multiple themes, and free hosting.
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">About</summary>
 
-[![About mockup of semplaatsman.nl](./docs/assets/about-mockup.webp)](https://semplaatsman.nl/)
+[![About mockup of luukbakkum.nl](./docs/assets/about-mockup.webp)](https://luukbakkum.nl/)
 
 </details>
 
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">Resume</summary>
 
-[![Resume mockup of semplaatsman.nl](./docs/assets/resume-mockup.png)](https://semplaatsman.nl/resume)
+[![Resume mockup of luukbakkum.nl](./docs/assets/resume-mockup.png)](https://luukbakkum.nl/resume)
 
 </details>
 
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">Projects</summary>
 
-[![Projects mockup of semplaatsman.nl](./docs/assets/projects-mockup.png)](https://semplaatsman.nl/projects)
+[![Projects mockup of luukbakkum.nl](./docs/assets/projects-mockup.png)](https://luukbakkum.nl/projects)
 
 </details>
 
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">Contact</summary>
 
-[![Contact mockup of semplaatsman.nl](./docs/assets/contact-mockup.png)](https://semplaatsman.nl/contact)
+[![Contact mockup of luukbakkum.nl](./docs/assets/contact-mockup.png)](https://luukbakkum.nl/contact)
 
 </details>
 
-Visit the live site: [semplaatsman.nl](https://semplaatsman.nl/)
+Visit the live site: [luukbakkum.nl](https://luukbakkum.nl/)
 
 ## 🌟 Features
 
@@ -117,8 +114,8 @@ To get started with this project:
 1. Installation:
 
    ```bash
-   git clone https://github.com/SemPlaatsman/semplaatsman.nl.git
-   cd semplaatsman.nl
+   git clone https://github.com/LuukBakkum/luukbakkum.nl.git
+   cd luukbakkum.nl
    npm install
    ```
 
@@ -145,7 +142,7 @@ To customize to project for your own use:
 4. Adjust styles in [`src/styles/_variables.scss`](./src/styles/_variables.scss)
 
 5. Update personal information in various files (see
-   [Configuration and Customization](https://github.com/SemPlaatsman/semplaatsman.nl/wiki/Configuration-and-Customization)
+   [Configuration and Customization](https://github.com/LuukBakkum/luukbakkum.nl/wiki/Configuration-and-Customization)
    in the wiki for details)
 
 ## 🚢 Deployment
@@ -156,13 +153,13 @@ automated through [GitHub Actions](https://github.com/features/actions). When ch
 the `main` branch, the application is automatically built and deployed.
 
 For detailed setup instructions, refer to the
-[Hosting and Deployment](https://github.com/SemPlaatsman/semplaatsman.nl/wiki/Hosting-and-Deployment)
+[Hosting and Deployment](https://github.com/LuukBakkum/luukbakkum.nl/wiki/Hosting-and-Deployment)
 section in the wiki.
 
 ## 📖 Documentation
 
 For more detailed information about the project structure, architecture, and advanced customization
-options, please refer to our [GitHub Wiki](https://github.com/SemPlaatsman/semplaatsman.nl/wiki).
+options, please refer to our [GitHub Wiki](https://github.com/LuukBakkum/luukbakkum.nl/wiki).
 
 ## 🤝 Contributing
 
@@ -170,7 +167,7 @@ We welcome contributions to this project! Please see our [Contributing Guideline
 for more information on how to get started.
 
 The `main` branch features the most recent deployed and stable code of this portfolio website, and
-is hosted on [semplaatsman.nl](https://www.semplaatsman.nl).
+is hosted on [luukbakkum.nl](https://www.luukbakkum.nl).
 
 The `development` branch is used for ongoing development work. All contributions should be merged
 into `development` before being merged into `main`.
@@ -186,10 +183,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-Sem Plaatsman - [LinkedIn](https://www.linkedin.com/in/sem-plaatsman/) -
-[dev@semplaatsman.nl](mailto:dev@semplaatsman.nl)
+Luuk Bakkum - [LinkedIn](https://www.linkedin.com/in/luuk-bakkum/) -
+[dev@luukbakkum.nl](mailto:dev@luukbakkum.nl)
 
-Project Link: [SemPlaatsman/semplaatsman.nl](https://github.com/SemPlaatsman/semplaatsman.nl)
+Project Link: [LuukBakkum/luukbakkum.nl](https://github.com/LuukBakkum/luukbakkum.nl)
 
 ## 🙏 Acknowledgements
 

@@ -8,20 +8,28 @@
     "title": "Opleiding",
     "items": [
       {
-        "title": "Hogeschool Inholland in Haarlem",
+        "title": "Informatica, Hogeschool Inholland (HBO)",
         "period": "2021 — Heden",
         "description": [
-          "In jaar 2 heb ik studenten van jaar 1 geholpen met programmeren in C# (studiepunt).",
-          "Verschillende multidisciplinaire projecten succesvol voltooid.",
-          "Propedeuse in het eerste jaar gehaald."
+          "In jaar 3 heb ik studenten van jaar 1 geholpen met programmeren in C# (studiepunt).",
+          "Verschillende multidisciplinaire projecten succesvol voltooid met diverse technologieën.",
+          "Propedeuse behaald in het tweede jaar."
         ]
       },
       {
-        "title": "OSG De Hogeberg (HAVO)",
-        "period": "2015 — 2021",
+        "title": "Technisch Leidinggevende, HMC College (MBO 4)",
+        "period": "2019 — 2020",
         "description": [
-          "Profielwerkstuk over AI.",
-          "Geïnteresseerd geraakt in programmeren tijdens een Python project in 4 HAVO."
+          "Geleerd hoe je met teams kunt samenwerken en deze kunt begeleiden om taken te voltooien.",
+          "Meer ervaring opgedaan tijdens de stage."
+        ]
+      },
+      {
+        "title": "Allround meubelmaker en (scheeps-) interieur bouwer, HMC College (MBO 3)",
+        "period": "2017 — 2020",
+        "description": [
+          "Ervaring opgedaan met het maken van houten meubels en het gebruik van machines.",
+          "Geleerd hoe je in grote teams werkt en de meubelindustrie."
         ]
       }
     ]
@@ -30,27 +38,36 @@
     "title": "Ervaring",
     "items": [
       {
-        "title": "S.P. Abonneeservice",
-        "period": "2024 — Heden",
+        "title": "Logistiek medewerker bij Albert Heijn",
+        "period": "2017 — Heden",
         "description": [
-          "SSO-systeem ontwikkeld met performance, security, en unit testing.",
-          "Gewerkt aan een AI model dat probeert te voorspellen wanneer een abonnee gaat opzeggen. Dit AI model wordt geïntegreerd met de bestaande retentiemodules"
+          "Altijd behulpzaam bij vragen van de klant en neem altijd de moeite om zo goed mogelijk te helpen.",
+          "Ga altijd kwaliteitsgericht te werk.",
+          "Kan goed presteren onder druk dit zowel zelfstandig als in teamverband."
         ]
       },
       {
-        "title": "S.P. Abonneeservice (Stage)",
+        "title": "The Brink Agency (Stage)",
         "period": "2023 — 2024",
         "description": [
-          "JWT-geauthentiseerde PWA ontwikkeld voor de klanten van S.P. voor statistische informatie.",
-          "Samengewerkt binnen een multidisciplinair team. Requirements geanalyseerd en technisch vertaald voor stakeholders.",
-          "Ervaring opgedaan met onder andere React, ASP.NET, JWT, TypeScript, SCSS, en MySQL."
+          "Ervaring opgedaan in het bouwen van WordPress-websites en werken met tools zoals Elementor.",
+          "Aangepaste nieuwsbrieven gemaakt in diensten zoals Mailchimp.",
+          "Meerdere aangepaste WordPress-plugins ontwikkeld voor een klant."
         ]
       },
       {
-        "title": "Zegel Retailing B.V.",
-        "period": "2019 — 2023",
+        "title": "Supervisiefunctie bij Karwei Zaandam (Stage)",
+        "period": "2020 — 2020",
         "description": [
-          "Allround retailmedewerker met focus op klantgerichte dienstverlening en operationele ondersteuning."
+          "Als supervisor gewerkt voor een team van 12 medewerkers in de logistieke afdeling.",
+          "Samenwerking binnen een multidisciplinair team. Werkte goed samen met leidinggevenden en collega's."
+        ]
+      },
+      {
+        "title": "MultiplX (Stage)",
+        "period": "2018 — 2019",
+        "description": [
+          "Samen gewerkt als aannemer voor inboedel en op meerdere locaties gewerkt."
         ]
       }
     ]
@@ -59,12 +76,12 @@
     "title": "Vaardigheden",
     "items": [
       {
-        "skill": "Web Design",
-        "percentage": 80
+        "skill": "Webdesign",
+        "percentage": 75
       },
       {
-        "skill": "Graphic Design",
-        "percentage": 70
+        "skill": "Grafisch ontwerp",
+        "percentage": 80
       },
       {
         "skill": "Branding",
@@ -72,7 +89,7 @@
       },
       {
         "skill": "WordPress",
-        "percentage": 50
+        "percentage": 85
       }
     ]
   }

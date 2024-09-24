@@ -9,7 +9,7 @@ import Testimonials from './Testimonials';
 
 const About: React.FC = () => {
   const { t } = useTranslation('about');
-  const description: string[] = t('description', { returnObjects: true });
+  const description: string[] = t('description', { returnObjects: true }) as string[];
 
   return (
     <PageContent className={styles.about} titleClassName={styles.aboutTitle}>

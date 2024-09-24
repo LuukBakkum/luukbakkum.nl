@@ -11,7 +11,7 @@ const Testimonials: React.FC = () => {
   const { t } = useTranslation('about');
   const testimonials: Record<string, Testimonial> = t('testimonials.testimonials', {
     returnObjects: true,
-  });
+  }) as Record<string, Testimonial>;
 
   return (
     <section className={styles.testimonials}>
