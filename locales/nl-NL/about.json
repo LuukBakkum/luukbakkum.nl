@@ -1,0 +1,61 @@
+{
+  "title": "Over mij",
+  "description": [
+    "Hoi, ik ben <strong>{{config.owner.fullName}}</strong>, een vierdejaars Bachelor-student Informatica aan de Hogeschool Inholland in Haarlem. Ik heb een passie voor het <strong>oplossen van problemen</strong> en duik graag diep in complexe vraagstukken. Ik ben altijd bereid om <strong>nieuwe dingen te leren</strong> en mijn vaardigheden te verbeteren.",
+    "Ik heb ervaring met verschillende programmeertalen en technologieën, zoals Java, C#, TypeScript, Python en (No)SQL. Ook ben ik bekend met frameworks en libraries zoals React, Spring Boot, ASP.NET en TensorFlow. Zelf ben ik ook een fan van werken aan frontend, waaronder html, javascript en werken in programmas zoals WordPress. Momenteel ben ik bezig met het uitbreiden van mijn kennis van <strong>CI/CD en Cloud Computing</strong>."
+  ],
+  "whatImDoing": {
+    "title": "Wat ik doe",
+    "interests": {
+      "backendDevelopment": {
+        "title": "Backend Development",
+        "description": "Het bouwen van backend-systemen en API's voor verschillende toepassingen",
+        "iconAlt": "Backend Development icoon"
+      },
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Ontwikkelen van functionele websites gebouwd met moderne technologieën.",
+        "iconAlt": "Web Development icoon"
+      },
+      "artificialIntelligence": {
+        "title": "Artificial Intelligence",
+        "description": "Het ontwikkelen van zowel machine als deep learning AI-modellen.",
+        "iconAlt": "Artificial Intelligence icoon"
+      },
+      "gaming": {
+        "title": "Gamen",
+        "description": "Naast programmeren houd ik van het spelen van games en samen met anderen te gamen.",
+        "iconAlt": "Game icoon"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Referenties",
+    "testimonials": {
+      "lardyVanDerPal": {
+        "name": "Lardy van der Pal",
+        "position": "CEO bij The Brink Agency",
+        "dateISO": "2024-01-12",
+        "description": [
+        "Luuk toont een uitstekend zelfsturend vermogen. Hij werkt zelfstandig, resultaatgericht en blijft stressbestendig in kritieke situaties. Zijn ondernemende instelling en bereidheid om initiatief te nemen zijn opmerkelijk.",
+
+        "Op het gebied van sociaal-communicatieve vaardigheden blinkt Luuk uit. Hij werkt effectief samen in teamverband, communiceert helder met collega's op verschillende niveaus, en staat open voor feedback. Zijn vermogen om te luisteren en kennis over te dragen wordt erg gewaardeerd.",
+
+        "Luuks heeft een creativiteit en probleemoplossend vermogen. Hij neemt weloverwogen besluiten en komt regelmatig met innovatieve ideeën. Daarnaast toont hij een sterk besef van maatschappelijke verantwoordelijkheid en gaat respectvol om met diversiteit.",
+
+        "Samenvattend heb ik de samenwerking met Luuk als zeer prettig ervaren. Zijn toewijding, uitstekende communicatievaardigheden en positieve instelling maken hem tot een waardevolle collega die significant bijdraagt aan zowel de kwaliteit van het werk als aan een aangename werksfeer."
+      ],
+        "avatarAlt": "Lardy van der Pal avatar"
+      },
+      "semPlaatsman": {
+        "name": "Sem Plaatsman",
+        "position": "Medestudent | Medewerker Automatisering bij S.P. Abonneeservice B.V.",
+        "dateISO": "2024-09-20",
+        "description": [
+          "Na samenwerking aan meerdere groepsprojecten kan ik Luuk van harte aanbevelen. Als gespecialiseerde frontend-ontwikkelaar creëert hij aantrekkelijke, gebruiksvriendelijke interfaces. Luuk combineert zijn technische vaardigheden met een sterke teamgeest en effectieve communicatie. Voor rollen die een bekwame frontend-ontwikkelaar én een goede teamspeler vereisen, is Luuk een uitstekende keuze."
+        ],
+        "avatarAlt": "Sem Plaatsman avatar"
+      }
+    }
+  }
+}
