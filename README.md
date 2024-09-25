@@ -7,9 +7,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/LuukBakkum/luukbakkum.nl)
 ![GitHub contributors](https://img.shields.io/github/contributors/LuukBakkum/luukbakkum.nl)
 
-Welcome to the repository for luukbakkum.nl! This project showcases a modern, fully responsive
-personal portfolio website built with React. It has built-in support for emails, multilinguality,
-multiple themes, and free hosting.
+Welcome to the repository for luukbakkum.nl! Firstly I would like to thank
+[Sem Plaatsman](https://github.com/SemPlaatsman/semplaatsman.nl) with profiding the blueprint for
+this beautiful portfolio. This project showcases a modern, fully responsive personal portfolio
+website built with React. It has built-in support for emails, multilinguality, multiple themes, and
+free hosting.
 
 ![luukbakkum.nl Mockup](./docs/assets/about-mockup.webp)
 
@@ -52,21 +54,21 @@ multiple themes, and free hosting.
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">Resume</summary>
 
-[![Resume mockup of luukbakkum.nl](./docs/assets/resume-mockup.png)](https://luukbakkum.nl/resume)
+[![Resume mockup of luukbakkum.nl](./docs/assets/resume-mockup.webp)](https://luukbakkum.nl/resume)
 
 </details>
 
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">Projects</summary>
 
-[![Projects mockup of luukbakkum.nl](./docs/assets/projects-mockup.png)](https://luukbakkum.nl/projects)
+[![Projects mockup of luukbakkum.nl](./docs/assets/projects-mockup.webp)](https://luukbakkum.nl/projects)
 
 </details>
 
 <details>
 <summary style="font-size: 1.17em; font-weight: bold; margin: 0.5em 0;">Contact</summary>
 
-[![Contact mockup of luukbakkum.nl](./docs/assets/contact-mockup.png)](https://luukbakkum.nl/contact)
+[![Contact mockup of luukbakkum.nl](./docs/assets/contact-mockup.webp)](https://luukbakkum.nl/contact)
 
 </details>
 
@@ -105,7 +107,6 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of [Node.js](https://nodejs.org/en) and npm (comes with
   Node.js)
 - You have a Windows/Linux/Mac machine with [Git](https://git-scm.com/downloads) installed
-- You have read [CONTRIBUTING.md](./CONTRIBUTING.md) (optional, if you're looking to contribute)
 
 ## 🚀 Quick Start Guide
 
@@ -156,30 +157,10 @@ For detailed setup instructions, refer to the
 [Hosting and Deployment](https://github.com/LuukBakkum/luukbakkum.nl/wiki/Hosting-and-Deployment)
 section in the wiki.
 
-## 📖 Documentation
-
-For more detailed information about the project structure, architecture, and advanced customization
-options, please refer to our [GitHub Wiki](https://github.com/LuukBakkum/luukbakkum.nl/wiki).
-
 ## 🤝 Contributing
 
-We welcome contributions to this project! Please see our [Contributing Guidelines](CONTRIBUTING.md)
-for more information on how to get started.
-
-The `main` branch features the most recent deployed and stable code of this portfolio website, and
-is hosted on [luukbakkum.nl](https://www.luukbakkum.nl).
-
-The `development` branch is used for ongoing development work. All contributions should be merged
-into `development` before being merged into `main`.
-
-## 📜 Code of Conduct
-
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing or engaging in our
-community.
-
-## ⚖️ License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+If you like this project and feel like contributing, you can find the documentation on how to do so
+on [Sem Plaatsman's](https://github.com/SemPlaatsman/semplaatsman.nl) GitHub page.
 
 ## 📫 Contact
 
@@ -194,7 +175,8 @@ Mockups were generated through the
 [Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php) from
 [TechSini.com](https://techsini.com/).
 
-This project is based on the work of [codewithsadee](https://github.com/codewithsadee). The
+This project is based on the work of [codewithsadee](https://github.com/codewithsadee) and
+[Sem Plaatsman](https://github.com/SemPlaatsman/semplaatsman.nl). The
 [original repository](https://github.com/codewithsadee/vcard-personal-portfolio) provided the
 foundation and inspiration for this portfolio website. I express my gratitude for their excellent
 work and for making it available under the [MIT license](https://opensource.org/license/mit).
